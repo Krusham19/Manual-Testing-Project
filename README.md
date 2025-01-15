@@ -16,10 +16,10 @@ It includes:
 
 ## Notable Bug
 - **Bug**: User Updates its profile but it doesn't reflect in dashboard.  
-- **Impact**: Users can get Confused about the updated profile information.
+- **Impact**: Users may get Confused about the updated profile information.
 
 ## Usage
-- Open the Url in Browser "https://thekiranacademy.com/test/"
+- Open the Url in the Browser "https://thekiranacademy.com/test/"
 
 ## Rights
 - Rights and Ownership
