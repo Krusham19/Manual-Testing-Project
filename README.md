@@ -20,6 +20,7 @@ It includes:
 
 ## Usage
 - Open the Url in the Browser "https://thekiranacademy.com/test/"
+- Test & Improve knowledge by giving Quiz answers
 
 ## Rights
 - Rights and Ownership
