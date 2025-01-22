@@ -24,4 +24,5 @@ It includes:
 
 ## Rights
 - Rights and Ownership
+- 
 The website The Kiran Academy Test Portal and all its content, including design, text, images, and functionality, belong solely to The Kiran Academy. All rights are reserved by the organization.
